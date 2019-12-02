@@ -1,0 +1,20 @@
+{
+  "name": "wp4-build-system",
+  "version": "1.0.0",
+  "description": "Using Webpack 4 for development ## Webpack installation Before installing webpack first we need to install node and npm: see docs The version that I am using for this demo is Node version 10.17.0 and NPM version 6.4.1 ## Requirements - Node & NPM - Git (VCS) Create a directory for your project and cd into it On MAC or Linux OS run the following command ``` mkdir project_name && cd $_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nnaji/wp4-build-system.git"
+  },
+  "keywords": [],
+  "author": "Kingsley <kingsley.nnaji@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nnaji/wp4-build-system/issues"
+  },
+  "homepage": "https://github.com/Nnaji/wp4-build-system#readme"
+}
